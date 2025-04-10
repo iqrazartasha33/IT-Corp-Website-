@@ -1,1 +1,1 @@
-https://app.netlify.com/sites/it-corp-template/overview
+https://it-corp-template.netlify.app/
